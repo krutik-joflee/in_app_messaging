@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "305671241631",
+    "project_id": "inapp-krutik-demo",
+    "storage_bucket": "inapp-krutik-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305671241631:android:a4c3b7cd38dc21270707aa",
+        "android_client_info": {
+          "package_name": "com.example.in_app_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305671241631-qedmjop0v2hv0bmc9l8l48i27ucr25qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW09lDpoMfjSMR7FL9dgM04fexWqcIahQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305671241631-qedmjop0v2hv0bmc9l8l48i27ucr25qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "305671241631-sdmkghiaq4qtbi7tofbislfegfcsqld8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.inAppMessaging"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
